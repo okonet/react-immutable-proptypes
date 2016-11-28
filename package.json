@@ -31,9 +31,9 @@
     "immutable": "^3.6.2"
   },
   "devDependencies": {
-    "babel": "^4.6.6",
+    "babel": "^6.5.2",
     "expect.js": "^0.3.1",
-    "istanbul": "~0.3.7",
-    "mocha": "^2.0.1"
+    "istanbul": "~0.4.5",
+    "mocha": "^3.2.0"
   }
 }
